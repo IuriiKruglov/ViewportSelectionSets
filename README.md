@@ -1,9 +1,10 @@
 # Viewport Selection Sets
 
-**Author:** Kruglov Iurii and ChatGPT  
+<img width="234" height="327" alt="SelectionSets_01" src="https://github.com/user-attachments/assets/43af2b66-df50-4872-a673-9073bfa0063a" />
+
 **Version:** 1.1.0  
 **Supported Blender versions:** Blender 3.6 LTS through Blender 5.2  
-**Interface:** 3D Viewport → Sidebar (`N`) → **Selection Sets**
+
 
 A lightweight Blender add-on for creating named sets of objects and managing them from the 3D Viewport's right-hand N-panel.
 
